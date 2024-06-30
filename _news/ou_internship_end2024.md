@@ -5,9 +5,9 @@ inline: true
 related_posts: false
 ---
 
-I\'ve produced a conference paper about Active Learning and Confidence Calibration under ISLab, Osaka University, which was submitted to ICANN2024.
+I've produced a conference paper about Active Learning and Confidence Calibration under <a href="https://www.is.ids.osaka-u.ac.jp/en/">ISLab, Osaka University</a>, which was submitted to <a href="https://e-nns.org/icann2024/">ICANN2024</a>.
 
-
+---
 
 <!-- Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
