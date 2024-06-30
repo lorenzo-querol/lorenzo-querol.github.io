@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper was accepted to [ICANN2024](https://e-nns.org/icann2024/).
+Our paper was accepted to ICANN2024.
