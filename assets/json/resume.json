@@ -54,6 +54,13 @@
     "certificates": [],
     "publications": [
         {
+            "name": "CALICO: Confident Active Learning with Integrated Calibration",
+            "publisher": "ArXiv",
+            "releaseDate": "2024-07-03",
+            "url": "https://arxiv.org/abs/2407.02335",
+            "summary": ""
+        },
+        {
             "name": "Rapid Automatic Cacao Pod Borer Detection Using Edge Computing on Low-End Mobile Devices",
             "publisher": "Agronomy",
             "releaseDate": "2024-02-29",
