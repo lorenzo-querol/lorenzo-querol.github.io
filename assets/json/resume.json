@@ -6,6 +6,28 @@
     },
     "education": [
         {
+            "institution": "Robert Gage Elementary School",
+            "location": "Rochester, Minnesota, USA",
+            "url": "",
+            "area": "",
+            "studyType": "Grade School (1-3)",
+            "startDate": "2007",
+            "endDate": "2010",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Robert Gage Middle School",
+            "location": "Rochester, Minnesota, USA",
+            "url": "",
+            "area": "",
+            "studyType": "Grade School (Grade 4-6)",
+            "startDate": "2010",
+            "endDate": "2013",
+            "score": "",
+            "courses": []
+        },
+        {
             "institution": "O.B. Montessori Center, Inc.",
             "location": "San Juan, Philippines",
             "url": "https://www.obmontessori.edu.ph/",
