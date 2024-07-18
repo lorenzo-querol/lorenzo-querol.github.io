@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 Hi, I'm Lorenzo. I'm a graduate of De La Salle University Manila, with a B.Sc. degree in Computer Science, major in Computer Systems Engineering. 
 
-I'll be entering my master's program in Information Science at [Osaka University's Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/) starting October this year. 
+I'll be entering the master's program in Information Science at [Osaka University's Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/) starting October this year.  
 
 My research interests include Machine Learning and Computer Vision.
 
