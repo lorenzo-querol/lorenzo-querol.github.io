@@ -18,10 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Lorenzo. I'm a graduate of De La Salle University Manila, with a B.Sc. degree in Computer Science, major in Computer Systems Engineering. 
+Hi, I'm Lorenzo. Nice to meet you! 
 
-I'll be entering the master's program in Information Science at [Osaka University's Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/) starting October this year.  
+I recently completed my [B.Sc. degree in Computer Science](https://www.dlsu.edu.ph/colleges/ccs/) at [De La Salle University Manila](https://www.dlsu.edu.ph/). I'll be entering the master's program at [Osaka University's Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/) starting October this year, where I'll be studying Information Science.
 
-My research interests include Machine Learning and Computer Vision.
+As a prospective graduate student, I aim to explore in depth the field of machine learning, particularly in computer vision. My recent internship project has gotten me interested in probabilistic  modeling, so I'm looking forward to learning more about it in the future, as well as other developing aspects of machine learning. I'm also interested in applying this to more real-world problems, such as biomedical applications.
 
-During my free time, I enjoy studying Japanese, exercising, playing games, watching anime, and learning different recipes to cook.  
+In my spare time, I enjoy exercising, playing games, watching anime, and cooking. My mother tongue is Filipino, but I'm also fluent in English as I grew up in the United States, and I'm currently learning Japanese.
