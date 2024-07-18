@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I passed my final thesis defense, and was also nominated for the Most Outstanding Thesis Award of my department.
+Passed my final thesis defense, and was also nominated for the Most Outstanding Thesis Award of my department.

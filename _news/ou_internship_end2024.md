@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've produced a conference paper about Active Learning and Confidence Calibration under [ISLab, Osaka University](https://www.is.ids.osaka-u.ac.jp/en/), which was submitted to [ICANN2024](https://e-nns.org/icann2024/).
+Produced a paper about Active Learning and Confidence Calibration under [ISLab, Osaka University](https://www.is.ids.osaka-u.ac.jp/en/), which was submitted to [ICANN2024](https://e-nns.org/icann2024/).
