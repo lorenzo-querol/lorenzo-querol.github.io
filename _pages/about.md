@@ -24,4 +24,4 @@ I'll be entering the master's program in Information Science at [Osaka Universit
 
 My research interests include Machine Learning and Computer Vision.
 
-During my free time, I enjoy studying Japanese, exercising, playing games, watching anime, and learning different recipes to cook. 
+During my free time, I enjoy studying Japanese, exercising, playing games, watching anime, and learning different recipes to cook.  
