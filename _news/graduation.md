@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from my B.Sc. degree in Computer Science degree at De La Salle University Manila.
+Graduated from my B.Sc. degree in Computer Science at De La Salle University Manila.
