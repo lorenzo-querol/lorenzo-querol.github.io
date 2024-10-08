@@ -55,13 +55,13 @@
             "institution": "De La Salle University",
             "location": "Manila, Philippines",
             "url": "https://www.dlsu.edu.ph/",
-            "area": "Computer Systems Engineering",
+            "area": "Computer Science",
             "studyType": "B.Sc.",
             "startDate": "2019",
             "endDate": "2024",
             "score": "",
             "courses": [
-                "Computer Science"
+                "Computer Systems Engineering"
             ]
         },
         {
