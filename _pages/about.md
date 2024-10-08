@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master's student at Osaka University. Information Science.
+subtitle: Master's student of Information Science at Osaka University. Intelligence and Sensing Laboratory.
 
 profile:
   align: right
@@ -19,8 +19,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Lorenzo. Nice to meet you! 
-
-I'm currently a Master's student at [Osaka University's Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/) studying Information Science.
 
 I aim to explore in depth the field of machine learning, particularly in computer vision. My recent project has gotten me interested in probabilistic  modeling, so I'm looking forward to learning more about it in the future, as well as other developing aspects of machine learning. I'm also interested in applying this to more real-world problems, such as biomedical applications.
 

@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Started my master's program Osaka University. Hopeful to have a fruitful two years ahead!
+Started my studies at Osaka University. Hope to have a fruitful two years ahead.
 
