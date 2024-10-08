@@ -63,6 +63,19 @@
             "courses": [
                 "Computer Science"
             ]
+        },
+        {
+            "institution": "Osaka University",
+            "location": "Suita, Osaka, Japan",
+            "url": "https://www.ist.osaka-u.ac.jp/english/",
+            "area": "Information Science",
+            "studyType": "M.Sc.",
+            "startDate": "2024",
+            "endDate": "Present",
+            "score": "",
+            "courses": [
+                "Computer Science"
+            ]
         }
     ],
     "awards": [
@@ -77,9 +90,9 @@
     "publications": [
         {
             "name": "CALICO: Confident Active Learning with Integrated Calibration",
-            "publisher": "ArXiv",
-            "releaseDate": "2024-07-03",
-            "url": "https://arxiv.org/abs/2407.02335",
+            "publisher": "Springer",
+            "releaseDate": "2024-09-17",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-031-72332-2_9",
             "summary": ""
         },
         {

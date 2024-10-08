@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Master's student at Osaka University. Information Science.
 
 profile:
   align: right
@@ -20,8 +20,8 @@ social: false # includes social icons at the bottom of the page
 
 Hi, I'm Lorenzo. Nice to meet you! 
 
-I recently completed my [B.Sc. degree in Computer Science](https://www.dlsu.edu.ph/colleges/ccs/) at [De La Salle University Manila](https://www.dlsu.edu.ph/). I'll be entering the master's program at [Osaka University's Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/) starting October this year, where I'll be studying Information Science.
+I'm currently a Master's student at [Osaka University's Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/) studying Information Science.
 
-As a prospective graduate student, I aim to explore in depth the field of machine learning, particularly in computer vision. My recent internship project has gotten me interested in probabilistic  modeling, so I'm looking forward to learning more about it in the future, as well as other developing aspects of machine learning. I'm also interested in applying this to more real-world problems, such as biomedical applications.
+I aim to explore in depth the field of machine learning, particularly in computer vision. My recent project has gotten me interested in probabilistic  modeling, so I'm looking forward to learning more about it in the future, as well as other developing aspects of machine learning. I'm also interested in applying this to more real-world problems, such as biomedical applications.
 
 In my spare time, I enjoy exercising, playing games, watching anime, and cooking. My mother tongue is Filipino, but I'm also fluent in English as I grew up in the United States, and I'm currently learning Japanese.
