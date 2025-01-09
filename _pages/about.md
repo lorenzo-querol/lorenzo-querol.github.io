@@ -22,4 +22,4 @@ Hi, I'm Lorenzo. Nice to meet you!
 
 I aim to explore in depth the field of machine learning, particularly in computer vision. My recent project has gotten me interested in probabilistic  modeling, so I'm looking forward to learning more about it in the future, as well as other developing aspects of machine learning. I'm also interested in applying this to more real-world problems, such as biomedical applications.
 
-In my spare time, I enjoy exercising, playing games, watching anime, and cooking. My mother tongue is Filipino, but I'm also fluent in English as I grew up in the United States, and I'm currently learning Japanese.
+In my spare time, I enjoy exercising, playing games, watching anime, cooking, hiking, and going to museums. My mother tongue is Filipino, but I'm also fluent in English as I grew up in the United States, and I'm currently learning Japanese.
